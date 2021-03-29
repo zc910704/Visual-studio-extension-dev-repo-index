@@ -7,3 +7,7 @@
   show a window manager in status bar.
   
   ![](./Images/VSWindowManager.gif)
+
+- [HotStatus](https://github.com/justcla/HotStatus)
+  
+  display compile error in status bar.
