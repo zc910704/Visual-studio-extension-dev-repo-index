@@ -6,4 +6,4 @@
   
   show a window manager in status bar.
   
-  ![alt VS Window Manager](./images/VSWindowManager.gif)
+  ![](./Images/VSWindowManager.gif)
