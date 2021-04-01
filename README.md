@@ -21,3 +21,10 @@
 - [HotStatus](https://github.com/justcla/HotStatus)
   
   display compile error in status bar.
+
+## JIT
+
+- [Disasmo](https://github.com/EgorBo/Disasmo)
+About  
+VS2019 Add-in. Click on any method or class to see what .NET Core's JIT generates for them (ASM).  
+![](https://github.com/EgorBo/Disasmo/raw/master/images/screenshot.gif)
