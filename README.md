@@ -22,6 +22,14 @@
   
   display compile error in status bar.
 
+## Text Adorment
+
+- [Invisible Character Visualizer Visual Studio Extension](https://github.com/shaneray/ShaneSpace.VisualStudio.InvisibleCharacterVisualizer#invisible-character-visualizer-visual-studio-extension)
+  
+  this extension it is very easy to spot "Invisible" characters that may be unwanted.  
+  
+  ![](https://github.com/shaneray/ShaneSpace.VisualStudio.InvisibleCharacterVisualizer/raw/master/src/ShaneSpace.VisualStudio.InvisibleCharacterVisualizer/assets/capture.png)
+
 ## JIT
 
 - [Disasmo](https://github.com/EgorBo/Disasmo)
