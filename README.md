@@ -21,7 +21,7 @@
 - [HotStatus](https://github.com/justcla/HotStatus)
   
   display compile error in status bar.
-  ![](./Images/HotStatus.gif)
+  ![](./Images/HotStatus.png)
 
 
 ## Text Adorment
