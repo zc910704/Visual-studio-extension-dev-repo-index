@@ -25,7 +25,7 @@ the repository is aim at collect visual studio extension that simple and easy to
   display compile error in status bar.
   ![](./Images/HotStatus.png)
 
-## Buil
+## Built
 
 - [BuildOnSave](https://github.com/pragmatrix/BuildOnSave)
   BuildOnSave is an extension for Visual Studio 2017 and 2019 that builds the current solution as soon a file is saved.  
