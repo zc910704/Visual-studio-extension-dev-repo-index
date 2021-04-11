@@ -45,3 +45,10 @@ the repository is aim at collect visual studio extension that simple and easy to
 About  
 VS2019 Add-in. Click on any method or class to see what .NET Core's JIT generates for them (ASM).  
 ![](https://github.com/EgorBo/Disasmo/raw/master/images/screenshot.gif)
+
+## manipulate Project
+
+- [Add Multiple Projects To Solution](https://github.com/guudan/Vs-AddMultipleProjectsToSolution)  
+ Visual Studio extension that allows adding multiple existing projects into the solution. Optionally creates the solution folder structure reflecting to the physical hierarchy on disk.
+ ![](https://github.com/guudan/Vs-AddMultipleProjectsToSolution/raw/master/docs/img/ClickAddMultipleCommand.png)
+ ![](https://github.com/guudan/Vs-AddMultipleProjectsToSolution/raw/master/docs/img/SelectProjectsToAdd.png)
